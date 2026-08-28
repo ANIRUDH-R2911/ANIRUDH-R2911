@@ -7,12 +7,15 @@
 
 # Hey there, I'm Anirudh Raghavan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;Robotics+%26+Autonomy+Researcher;Deep+Learning+Enthusiast;Building+AI+for+Real-World+Impact" />
+### Computer Vision • Machine Learning • Robotics
+
+**MS in Autonomy @ Purdue University**
+
+*Published Researcher • AI Engineer • Open to Opportunities*
 
 <br>
 
 <img src="https://img.shields.io/github/followers/ANIRUDH-R2911?style=for-the-badge&color=8B0000&labelColor=111111&logo=github" />
-<img src="https://img.shields.io/github/stars/ANIRUDH-R2911?style=for-the-badge&color=8B0000&labelColor=111111&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=ANIRUDH-R2911&style=for-the-badge&color=8B0000" />
 
 </div>
@@ -25,30 +28,29 @@
 
 </div>
 
-```text
-🎓 MS in Autonomy | Purdue University
+🎓 Master of Science in Autonomy from Purdue University
 
-🤖 Machine Learning • Computer Vision • Robotics • Deep Learning
+🤖 Passionate about Computer Vision, Machine Learning, Robotics, and Deep Learning
 
-🔬 Passionate about building intelligent systems that solve real-world problems
+🔬 Building intelligent systems that solve real-world problems through perception and AI
 
-🌱 Currently Working On:
-   • Accessible Food Bank Assistant (OCR + RAG + AI)
-   • Computer Vision Applications
-   • Deep Learning Pipelines
-   • Robotics Perception Systems
+🌱 **Currently Working On**
+- Accessible Food Bank Assistant (OCR + RAG + AI)
+- Computer Vision Applications
+- Deep Learning Pipelines
+- Robotics Perception Systems
 
-💡 Interests:
-   • Autonomous Systems
-   • Object Detection & Tracking
-   • AI Accessibility Solutions
-   • Edge AI Deployment
+💡 **Areas of Interest**
+- Autonomous Systems
+- Object Detection & Tracking
+- Vision-Language Models
+- AI Accessibility Solutions
+- Edge AI Deployment
 
-📫 Open To:
-   • Machine Learning Engineer Roles
-   • Computer Vision Engineer Roles
-   • Robotics & Autonomy Opportunities
-```
+📫 **Open To**
+- Machine Learning Engineer Roles
+- Computer Vision Engineer Roles
+- Robotics & Autonomy Opportunities
 
 ---
 
@@ -70,15 +72,15 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🏆 GitHub Highlights
 
 <br>
 
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ANIRUDH-R2911&theme=radical&no-frame=true&row=1&column=6" />
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -92,17 +94,16 @@
 
 <div align="center">
 
-## 🏆 Featured Projects
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ANIRUDH-R2911/ANIRUDH-R2911/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/ANIRUDH-R2911/ANIRUDH-R2911/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
-| Project | Description |
-|----------|-------------|
-| 🚗 Autonomous Perception Benchmarking | Benchmarking YOLOv8, YOLOv9, YOLOv12 and YOLOX on Waymo Open Dataset |
-| 🍎 Accessible Food Bank Assistant | OCR + AI-powered inventory digitization and food search assistant |
-| 🌦️ Weather-Robust Object Detection | Improved object detection performance under adverse weather conditions |
-| 🎥 Video Object Segmentation | Slot Attention + RAFT Optical Flow for robust segmentation |
-| 🚨 Earthquake Rescue System | Published research project using computer vision for disaster response |
 
 ---
 
@@ -112,17 +113,21 @@
 
 </div>
 
-📄 Earthquake Rescue System
-Published in Elsevier's Results in Engineering
+### 📄 Earthquake Rescue System
+- Published in Elsevier's *Results in Engineering*
+- Computer vision-based disaster response system deployed on NVIDIA Jetson Nano
 
-🚗 Autonomous Perception Benchmarking
-YOLOv8, YOLOv9, YOLOv12 and YOLOX evaluation on Waymo dataset
+### 🚗 Autonomous Perception Benchmarking
+- Evaluated YOLOv8, YOLOv9, YOLOv12 and YOLOX
+- Benchmarked models using the Waymo Open Dataset
 
-🎥 Video Object Segmentation
-84.8% mIoU using Slot Attention + RAFT
+### 🎥 Video Object Segmentation
+- Achieved 84.8% mIoU using Slot Attention and RAFT Optical Flow
+- Focused on robust temporal consistency in video understanding
 
-🌦️ Weather-Robust Object Detection
-Reduced false negatives by 27% in adverse weather
+### 🌦️ Weather-Robust Object Detection
+- Improved object detection performance under adverse weather conditions
+- Reduced false negatives by 27%
 
 ---
 
@@ -141,7 +146,7 @@ Reduced false negatives by 27% in adverse weather
 </a>
 
 <a href="https://anirudh-r2911.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
