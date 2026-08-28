@@ -13,11 +13,6 @@
 
 *Published Researcher • AI Engineer • Open to Opportunities*
 
-<br>
-
-<img src="https://img.shields.io/github/followers/ANIRUDH-R2911?style=for-the-badge&color=8B0000&labelColor=111111&logo=github" />
-<img src="https://komarev.com/ghpvc/?username=ANIRUDH-R2911&style=for-the-badge&color=8B0000" />
-
 </div>
 
 ---
@@ -97,25 +92,19 @@
 
 <div align="center">
 
-## 📚 Research & Publications
+## 📄 Publication
 
-</div>
+### Enhancing Earthquake Response with AI: Real-Time Human Detection Using Deep Learning and Robotic Systems
 
-### 📄 Earthquake Rescue System
-- Published in Elsevier's *Results in Engineering*
-- Computer vision-based disaster response system deployed on NVIDIA Jetson Nano
+Published in Elsevier's *Results in Engineering*
 
-### 🚗 Autonomous Perception Benchmarking
-- Evaluated YOLOv8, YOLOv9, YOLOv12 and YOLOX
-- Benchmarked models using the Waymo Open Dataset
+🔗 [Read Publication](https://doi.org/10.1016/j.rineng.2026.110608)
 
-### 🎥 Video Object Segmentation
-- Achieved 84.8% mIoU using Slot Attention and RAFT Optical Flow
-- Focused on robust temporal consistency in video understanding
+### Design of Rubble Analyzer Probe Using ML for Earthquake
 
-### 🌦️ Weather-Robust Object Detection
-- Improved object detection performance under adverse weather conditions
-- Reduced false negatives by 27%
+Published in Elsevier's *AIP Conference Proceedings*
+
+🔗 [Read Publication](https://doi.org/10.1063/5.0178244)
 
 ---
 
