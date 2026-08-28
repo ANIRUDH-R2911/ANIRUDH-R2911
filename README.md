@@ -74,7 +74,7 @@
 
 ## 🔥 GitHub Streak
 
-<img src="[https://streak-stats.demolab.com?user=ANIRUDH-R2911&theme=radical&hide_border=true](https://streak-stats.demolab.com?user=ANIRUDH-R2911)" />
+<img src="https://streak-stats.demolab.com?user=ANIRUDH-R2911" />
 
 </div>
 
@@ -85,10 +85,9 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/ANIRUDH-R2911/ANIRUDH-R2911/output/github-contribution-grid-snake-dark.svg">
-
-  <img alt="GitHub contribution snake"
+  <img alt="github contribution snake"
        src="https://raw.githubusercontent.com/ANIRUDH-R2911/ANIRUDH-R2911/output/github-contribution-grid-snake.svg">
 </picture>
 
