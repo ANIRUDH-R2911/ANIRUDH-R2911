@@ -110,15 +110,21 @@
 
 <div align="center">
 
-## 🏅 Achievements
+## 📚 Research & Publications
 
 </div>
 
-- 🎓 MS in Autonomy — Purdue University
-- 📄 Published Research in Elsevier Journal
-- 🤖 Research Experience in Autonomous Vehicle Perception
-- 📊 Extensive Experience with Deep Learning & Computer Vision
-- 🚀 Passionate About Real-World AI Applications
+📄 Earthquake Rescue System
+Published in Elsevier's Results in Engineering
+
+🚗 Autonomous Perception Benchmarking
+YOLOv8, YOLOv9, YOLOv12 and YOLOX evaluation on Waymo dataset
+
+🎥 Video Object Segmentation
+84.8% mIoU using Slot Attention + RAFT
+
+🌦️ Weather-Robust Object Detection
+Reduced false negatives by 27% in adverse weather
 
 ---
 
