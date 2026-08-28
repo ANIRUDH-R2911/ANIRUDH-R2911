@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=FF0000&text=Anirudh%20Raghavan&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn">
 </picture>
 
-# Hey there, I'm Anirudh Raghavan 👋
+# Hey there 👋
 
 ### Computer Vision • Machine Learning • Robotics
 
