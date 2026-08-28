@@ -85,7 +85,7 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
+  <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/ANIRUDH-R2911/ANIRUDH-R2911/output/github-contribution-grid-snake-dark.svg">
 
   <img alt="GitHub contribution snake"
