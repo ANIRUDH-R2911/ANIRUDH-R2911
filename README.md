@@ -74,10 +74,8 @@
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-R2911&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-R2911&layout=compact&theme=radical&hide_border=true" />
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ANIRUDH-R2911&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
