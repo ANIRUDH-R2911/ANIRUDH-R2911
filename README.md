@@ -64,7 +64,7 @@
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ## 🔥 GitHub Streak
@@ -75,7 +75,7 @@
 
 
 ---
-
+-->
 <div align="center">
 
 ## 🐍 Contribution Snake
