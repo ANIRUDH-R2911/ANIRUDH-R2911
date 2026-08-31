@@ -67,6 +67,15 @@
 
 <div align="center">
 
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=ANIRUDH-R2911&theme=radical&hide_border=true" />
+
+</div>
+---
+
+<div align="center">
+
 ## 🐍 Contribution Snake
 
 <picture>
