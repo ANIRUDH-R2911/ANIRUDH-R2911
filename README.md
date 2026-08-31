@@ -67,18 +67,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Highlights
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ANIRUDH-R2911&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=ANIRUDH-R2911&theme=radical&hide_border=true" />
