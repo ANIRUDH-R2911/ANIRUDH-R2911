@@ -30,7 +30,7 @@
 🔬 Building intelligent systems that solve real-world problems through perception and AI
 
 🌱 **Currently Working On**
-- Accessible Food Bank Assistant (OCR + RAG + AI)
+- Accessible Food Bank Assistant (Gemini + RAG + AI)
 - Computer Vision Applications
 - Deep Learning Pipelines
 - Robotics Perception Systems
@@ -38,13 +38,13 @@
 💡 **Areas of Interest**
 - Autonomous Systems
 - Object Detection & Tracking
-- Vision-Language Models
 - AI Accessibility Solutions
 - Edge AI Deployment
 
 📫 **Open To**
-- Machine Learning Engineer Roles
+- AI Engineer Roles
 - Computer Vision Engineer Roles
+- Machine Learning Engineer Roles
 - Robotics & Autonomy Opportunities
 
 ---
