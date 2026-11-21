@@ -25,9 +25,9 @@
 
 🎓 Master of Science in Autonomy from Purdue University
 
-🤖 Passionate about Computer Vision, Machine Learning, Robotics, and Deep Learning
+🤖 Passionate about GenAI, Computer Vision, Machine Learning, Robotics, and Deep Learning
 
-🔬 Building intelligent systems that solve real-world problems through perception and AI
+🔬 Building intelligent systems that solve real-world problems through AI and perception
 
 🌱 **Currently Working On**
 - Accessible Food Bank Assistant (Gemini + RAG + AI)
@@ -36,13 +36,14 @@
 - Robotics Perception Systems
 
 💡 **Areas of Interest**
+- GenAI products and solutions
 - Autonomous Systems
 - Object Detection & Tracking
-- AI Accessibility Solutions
 - Edge AI Deployment
 
 📫 **Open To**
 - AI Engineer Roles
+- GenAI Engineer Roles
 - Computer Vision Engineer Roles
 - Machine Learning Engineer Roles
 - Robotics & Autonomy Opportunities
